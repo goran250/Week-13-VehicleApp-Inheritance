@@ -1,4 +1,4 @@
-﻿namespace Vehicle_App_Inheritance
+﻿namespace VehicleApp_Inheritance
 {
     internal class Program
     {
