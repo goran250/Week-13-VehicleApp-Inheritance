@@ -11,7 +11,6 @@
             mc1.NumberOfWheels = 2;
             Console.WriteLine(car1.Brand + " " + car1.Model + " " + car1.ModelYear + " " + car1.Speed + " " + car1.NumberOfWheels + " " + car1.NumberOfDoors);
             Console.WriteLine(mc1.Brand + " " + mc1.Model + " " + mc1.ModelYear + " " + mc1.Speed + " " + mc1.NumberOfWheels);
-
         }
 
         // Base class
